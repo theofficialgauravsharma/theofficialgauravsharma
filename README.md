@@ -1,6 +1,9 @@
-## Hi I'm Gaurav Sharma <img src="https://github.com/theofficialgauravsharma/theofficialgauravsharma/blob/master/img/hi.gif" width="28px" alt="hi">
+<h1>Hi I'm Gaurav Sharma</h1><img src="https://github.com/theofficialgauravsharma/theofficialgauravsharma/blob/master/img/hi.gif" width="28px" alt="hi">
 
 Passionate. Improving. Data-driven
+<h2>Connect with me on</h2>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gauravsharma8236/" target="blank"><img align="center" alt="https://www.linkedin.com/in/gauravsharma8236/" height="30" width="40" /></a>
+
 
 #### Profile Visitors
 
