@@ -2,7 +2,7 @@
 
 Passionate. Improving. Data-driven
 <h2>Connect with me on</h2>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gauravsharma8236/" target="blank"><img align="center" alt="https://www.linkedin.com/in/gauravsharma8236/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gauravsharma8236/" target="blank"><img src="https://www.flaticon.com/free-icon/linkedin_174857" align="center" alt="https://www.linkedin.com/in/gauravsharma8236/"  height="30" width="40" /></a>
 
 
 #### Profile Visitors
