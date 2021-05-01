@@ -1,5 +1,5 @@
 
-<h1>Hi I'm Gaurav Sharma</h1><img src="https://github.com/theofficialgauravsharma/theofficialgauravsharma/blob/master/img/hi.gif" width="28px" alt="hi">
+<h1>Hi I'm Gaurav Sharma <img src="https://github.com/theofficialgauravsharma/theofficialgauravsharma/blob/master/img/hi.gif" width="28px" alt="hi"> </h1>
 
 Passionate. Improving. Data-driven
 <h2>Connect with me on</h2>
